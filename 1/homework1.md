@@ -1,5 +1,7 @@
 # Домашка
 
+
+
 1. Нажать “Do one!” на этом сайте: [architecturalkatas.com](https://www.architecturalkatas.com/)
 2. Ознакомиться с вводными
 3. Целиком пройти этап **«Сбор и анализ требований»**:
